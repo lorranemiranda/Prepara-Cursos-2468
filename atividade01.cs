@@ -3,6 +3,6 @@ class Hello_world
 {
     static void Main()
     {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello, World!");
     }
 }
